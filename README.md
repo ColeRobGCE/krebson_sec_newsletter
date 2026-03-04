@@ -54,3 +54,10 @@ sendNewsletter (Resend)
       ↓
 saveSentArticles (JSON)
 ```
+
+
+## Example newsletter
+
+Below is an example of the formatted newsletter you can expect to receive from this tool. The screenshot is included in the repository at `assets/krebson-screenshot.png` — if the image file is not present, save the attached screenshot to that path.
+
+![Krebs on Security newsletter example](assets/sample-email.png)

@@ -1,3 +1,4 @@
+import 'dotenv/config';
 import { fetchFeed } from './feed-parser.js';
 import { loadSentArticles, filterNewArticles, saveSentArticles, createSentRecord } from './dedup.js';
 import { formatNewsletter } from './email-formatter.js';

@@ -108,5 +108,10 @@
     "guid": "https://krebsonsecurity.com/?p=73582",
     "title": "Patch Tuesday, May 2026 Edition",
     "sentAt": "2026-05-13T14:03:23.150Z"
+  },
+  {
+    "guid": "https://krebsonsecurity.com/?p=73607",
+    "title": "CISA Admin Leaked AWS GovCloud Keys on Github",
+    "sentAt": "2026-05-19T14:32:31.515Z"
   }
 ]
